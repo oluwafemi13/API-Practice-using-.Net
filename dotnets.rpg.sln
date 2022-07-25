@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnets.rpg", "dotnets.rpg.csproj", "{889AA921-378B-463A-9B8F-3C6D89D5B3B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889AA921-378B-463A-9B8F-3C6D89D5B3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889AA921-378B-463A-9B8F-3C6D89D5B3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889AA921-378B-463A-9B8F-3C6D89D5B3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889AA921-378B-463A-9B8F-3C6D89D5B3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F62FB5B9-DBC5-4245-A84B-94337538536B}
+	EndGlobalSection
+EndGlobal
